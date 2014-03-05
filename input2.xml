@@ -1,0 +1,66 @@
+<?xml
+version='1.0' encoding='utf-8' standalone='no' ?>
+<opml version="1.1">
+	<head>
+		<title>BeyondPod Feeds
+		</title>
+		<dateCreated>Fri, 28 Feb 2014 11:05:24 GMT+00:00
+		</dateCreated>
+		<dateModified>Fri, 28 Feb 2014 11:05:24 GMT+00:00
+		</dateModified>
+	</head>
+	<body>
+		<outline text="Smart">
+			<outline text="Radio Free Delingpole" xmlUrl="http://ricochet.com/podcast/feed/delingpole" type="rss" />
+			<outline text="Uploads by UK Collapse Radio" xmlUrl="http://gdata.youtube.com/feeds/api/users/UKCollapseRadio/uploads" type="rss" />
+		</outline>
+		<outline text="Pauls Stuff">
+			<outline text="60-Second Health" xmlUrl="http://www.scientificamerican.com/xml/iTunes_feed.cfm?id=74" type="rss" />
+			<outline text="60-Second Tech" xmlUrl="http://www.scientificamerican.com/xml/iTunes_feed.cfm/?id=75" type="rss" />
+			<outline text="All About Android (MP3)" xmlUrl="http://feeds.twit.tv/aaa" type="rss" />
+			<outline text="Cato Daily Podcast" xmlUrl="http://feeds.cato.org/CatoDailyPodcast" type="rss" />
+			<outline text="Documentary of the Week" xmlUrl="http://downloads.bbc.co.uk/podcasts/radio4/r4choice/rss.xml" type="rss" />
+			<outline text="Escape Pod" xmlUrl="http://escapepod.org/feed/" type="rss" />
+			<outline text="Liberty Nation" xmlUrl="http://live.radioamerica.org/loudwater/feed.pl?tap=81" type="rss" />
+			<outline text="PodCastle" xmlUrl="http://podcastle.org/feed/rss2" type="rss" />
+			<outline text="Poem of the Day" xmlUrl="http://feeds.poetryfoundation.org/PoetryFoundation/PoemOfTheDay?format=xml" type="rss" />
+			<outline text="Reality Bites - Community Press Group" xmlUrl="http://www.communitypressgroup.com/itunes_rss.php" type="rss" />
+			<outline text="Telegram" xmlUrl="https://audioboo.fm/channels/1195483.rss" type="rss" />
+			<outline text="The Archers" xmlUrl="http://downloads.bbc.co.uk/podcasts/radio4/archers/rss.xml" type="rss" />
+			<outline text="thecultofnick" xmlUrl="http://thecultofnick.libsyn.com/rss" type="rss" />
+			<outline text="UKNewsPod-Burn" xmlUrl="http://feeds.feedburner.com/UKNewsPod" type="rss" />
+			<outline text="What the Papers Say" xmlUrl="http://downloads.bbc.co.uk/podcasts/radio4/wtps/rss.xml" type="rss" />
+		</outline>
+		<outline text="Books">
+			<outline text="Anarchy by MALATESTA, Errico" xmlUrl="http://librivox.org/rss/7261" type="rss" />
+			<outline text="Beowulf by UNKNOWN" xmlUrl="https://librivox.org/rss/8103" type="rss" />
+			<outline text="Canterbury Tales, The by CHAUCER, Geoffrey" xmlUrl="http://librivox.org/rss/342" type="rss" />
+			<outline text="Culture and Anarchy by ARNOLD, Matthew" xmlUrl="https://librivox.org/rss/7398" type="rss" />
+			<outline text="Letter Concerning Toleration, A by LOCKE,  John" xmlUrl="https://librivox.org/rss/975" type="rss" />
+			<outline text="Librivox Two Treatises of Civil Government by Locke, John" xmlUrl="http://librivox.org/bookfeeds/two-treatises-of-civil-government-by-john-locke.xml" type="rss" />
+			<outline text="New Testament Audio Bible - You've Got The Time" xmlUrl="http://www.biblesociety.org.uk/audio/ygtt/ygtt.xml" type="rss" />
+			<outline text="On Liberty by MILL, John Stuart" xmlUrl="http://librivox.org/rss/304" type="rss" />
+			<outline text="Prologue to the Canterbury Tales by CHAUCER, Geoffrey" xmlUrl="http://librivox.org/rss/1265" type="rss" />
+			<outline text="Robinson Crusoe by DEFOE, Daniel" xmlUrl="http://librivox.org/rss/696" type="rss" />
+			<outline text="Short History of England, A by CHESTERTON, G. K." xmlUrl="http://librivox.org/rss/1853" type="rss" />
+			<outline text="Swiss Family Robinson, The by WYSS,  Johann David" xmlUrl="http://librivox.org/rss/418" type="rss" />
+		</outline>
+		<outline text="News" />
+		<outline text="Popular">
+			<outline text="Best of Today" xmlUrl="http://downloads.bbc.co.uk/podcasts/radio4/today/rss.xml" type="rss" />
+			<outline text="Fighting Talk" xmlUrl="http://downloads.bbc.co.uk/podcasts/fivelive/ft/rss.xml" type="rss" />
+			<outline text="Global News" xmlUrl="http://downloads.bbc.co.uk/podcasts/worldservice/globalnews/rss.xml" type="rss" />
+			<outline text="TEDTalks (video)" xmlUrl="http://feeds.feedburner.com/TEDTalks_video" type="rss" />
+			<outline text="The Economist: All audio" xmlUrl="http://feeds.feedburner.com/feedroom/EmIE" type="rss" />
+			<outline text="The Infinite Monkey Cage" xmlUrl="http://downloads.bbc.co.uk/podcasts/radio4/timc/rss.xml" type="rss" />
+		</outline>
+		<outline text="Uncategorized" />
+		<outline text="Misc">
+			<outline text="GengoLanguages com Learn Japanese" xmlUrl="http://www.gengolanguages.com/images/feed.xml" type="rss" />
+			<outline text="Learn Japanese JapanesePod101 com Audio" xmlUrl="http://www.japanesepod101.com/wp/wp-feed-audio.php" type="rss" />
+		</outline>
+		<outline text="Blogs">
+			<outline text="UKNewsPod-Hrly" xmlUrl="http://uknewspod.blogspot.com/feeds/posts/default" type="rss" />
+		</outline>
+	</body>
+</opml>

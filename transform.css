@@ -1,0 +1,32 @@
+	div
+					{
+						border : 2px solid green;
+						border-radius : 10px;
+						padding : 5px;
+						margin : 5px;
+						float : left;
+					}
+					
+					div div div
+											{
+						clear : left;
+						}
+						.feed {width : 100px;
+						height: 5em;
+						overflow: hidden;
+					}
+					
+					/* div:before { content: attr(id) " " } */
+					/* Safari */
+					/* Firefox */
+					/* IE */
+					/* Opera */
+					.tilt
+					{
+						-webkit-transform : rotate(2deg);
+						-moz-transform : rotate(2deg);
+						-ms-transform : rotate(2deg);
+						-o-transform : rotate(2deg);
+					}
+					.dodge {margin-bottom:100px; }
+		

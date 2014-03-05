@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<opml version="1.0">
+    <head>
+        <title>Paul subscriptions in feedly Cloud</title>
+    </head>
+    <body>
+        <outline text="ukip" title="ukip">
+            <outline type="rss" text="UKIP News Feed" title="UKIP News Feed" xmlUrl="http://www.ukip.org/component/ninjarsssyndicator/?feed_id=1&amp;format=raw" htmlUrl="http://www.ukip.org/"/>
+            <outline type="rss" text="The Commentator" title="The Commentator" xmlUrl="http://thecommentator.com/main/rss" htmlUrl="http://www.thecommentator.com/"/>
+            <outline type="rss" text="UKIP Daily: Home" title="UKIP Daily: Home" xmlUrl="http://www.ukipdaily.com/feed/" htmlUrl="http://www.ukipdaily.com"/>
+            <outline type="rss" text="Taking Liberties" title="Taking Liberties" xmlUrl="http://taking-liberties.squarespace.com/blog/atom.xml" htmlUrl="http://taking-liberties.squarespace.com/blog/"/>
+            <outline type="rss" text="Junius on UKIP" title="Junius on UKIP" xmlUrl="http://juniusonukip.blogspot.com/feeds/posts/default" htmlUrl="http://juniusonukip.blogspot.com/"/>
+            <outline type="rss" text="Bloggers4UKIP" title="Bloggers4UKIP" xmlUrl="http://bloggers4ukip.blogspot.com/feeds/posts/default" htmlUrl="http://www.bloggers4ukip.org.uk/"/>
+            <outline type="rss" text="Cato @ Liberty" title="Cato @ Liberty" xmlUrl="http://feeds.cato.org/Cato-at-liberty" htmlUrl="http://www.cato.org/"/>
+            <outline type="rss" text="UK - Column Articles" title="UK - Column Articles" xmlUrl="http://www.ukcolumn.org/rss/articles/all" htmlUrl="http://www.ukcolumn.org/articles/all"/>
+            <outline type="rss" text="Nope, not Hope" title="Nope, not Hope" xmlUrl="http://nopenothope.blogspot.com/feeds/posts/default" htmlUrl="http://nopenothope.blogspot.com/"/>
+            <outline type="rss" text="The Cult Of Nick" title="The Cult Of Nick" xmlUrl="http://margerrisons.blogspot.com/feeds/posts/default" htmlUrl="http://margerrisons.blogspot.com/"/>
+        </outline>
+        <outline text="global.must" title="global.must">
+            <outline type="rss" text="Ann Perrin" title="Ann Perrin" xmlUrl="http://annperrin.wordpress.com/feed/" htmlUrl="http://annperrin.wordpress.com"/>
+        </outline>
+        <outline text="Misc" title="Misc">
+            <outline type="rss" text="Completed FOI Requests" title="Completed FOI Requests" xmlUrl="https://www.whatdotheyknow.com/feed/search/%20(latest_status:successful%20OR%20latest_status:partially_successful)" htmlUrl="https://www.whatdotheyknow.com"/>
+            <outline type="rss" text="Lean Blog" title="Lean Blog" xmlUrl="http://feeds.feedburner.com/LeanBlog" htmlUrl="http://www.leanblog.org"/>
+            <outline type="rss" text="Ann Perrin" title="Ann Perrin" xmlUrl="http://annperrin.wordpress.com/feed/" htmlUrl="http://annperrin.wordpress.com"/>
+            <outline type="rss" text="Comment is free | guardian.co.uk" title="Comment is free | guardian.co.uk" xmlUrl="http://feeds.guardian.co.uk/theguardian/commentisfree/rss" htmlUrl="http://www.theguardian.com/uk/commentisfree"/>
+            <outline type="rss" text="Agile Advice - Working With Agile Methods (Scrum, OpenAgile, Lean)" title="Agile Advice - Working With Agile Methods (Scrum, OpenAgile, Lean)" xmlUrl="http://feeds.feedburner.com/AgileAdvice" htmlUrl="http://www.agileadvice.com"/>
+        </outline>
+        <outline text="Music" title="Music">
+            <outline type="rss" text="Bluegrass Today" title="Bluegrass Today" xmlUrl="http://feeds.feedburner.com/thebluegrassblog" htmlUrl="http://bluegrasstoday.com"/>
+        </outline>
+        <outline text="newspaper" title="newspaper">
+            <outline type="rss" text="The Guardian World News" title="The Guardian World News" xmlUrl="http://www.guardian.co.uk/rssfeed/0,,1,00.xml" htmlUrl="http://www.theguardian.com/uk"/>
+            <outline type="rss" text="Daily Express :: News Feed" title="Daily Express :: News Feed" xmlUrl="http://www.express.co.uk/rss/news.xml" htmlUrl="http://www.express.co.uk"/>
+            <outline type="rss" text="The Argus | News" title="The Argus | News" xmlUrl="http://www.theargus.co.uk/news/rss/" htmlUrl="http://www.theargus.co.uk/news/"/>
+            <outline type="rss" text="Telegraph.co.uk - Telegraph online, Daily Telegraph, Sunday Telegraph" title="Telegraph.co.uk - Telegraph online, Daily Telegraph, Sunday Telegraph" xmlUrl="http://www.telegraph.co.uk/rss" htmlUrl="http://www.telegraph.co.uk/"/>
+        </outline>
+        <outline text="News" title="News">
+            <outline type="rss" text="Top Stories" title="Top Stories" xmlUrl="https://www.google.com/news?output=rss&amp;topic=h&amp;ned=uk&amp;cf=all&amp;num=20" htmlUrl="http://news.google.com/news?ned=uk&amp;hl=en&amp;topic=h&amp;num=20"/>
+            <outline type="rss" text="Huffington Post Uk Feed" title="Huffington Post Uk Feed" xmlUrl="http://www.huffingtonpost.com/feeds/verticals/uk/index.xml" htmlUrl="http://www.huffingtonpost.co.uk/"/>
+            <outline type="rss" text="BBC News - UK" title="BBC News - UK" xmlUrl="http://feeds.bbci.co.uk/news/uk/rss.xml" htmlUrl="http://www.bbc.co.uk/news/uk/#sa-ns_mchannel=rss&amp;ns_source=PublicRSS20-sa"/>
+            <outline type="rss" text="Guy Fawkes' blog of parliamentary plots, rumours and conspiracy" title="Guy Fawkes' blog of parliamentary plots, rumours and conspiracy" xmlUrl="http://feeds2.feedburner.com/guidofawkes" htmlUrl="http://order-order.com"/>
+            <outline type="rss" text="Community Press Group" title="Community Press Group" xmlUrl="http://www.communitypressgroup.com/feed/" htmlUrl="http://www.communitypressgroup.com"/>
+        </outline>
+    </body>
+</opml>
